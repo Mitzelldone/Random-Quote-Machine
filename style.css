@@ -1,0 +1,23 @@
+footer {
+	display: block;
+	text-align: center;
+	background: #bef4f9;
+	background: -webkit-gradient(
+			linear,
+			left top,
+			right top,
+			from(#bef4f9),
+			to(#e8fbfd)
+		)
+		fixed;
+	background: -o-linear-gradient(left, #bef4f9, #e8fbfd) fixed;
+	background: linear-gradient(to right, #bef4f9, #e8fbfd) fixed;
+	bottom: 0;
+	font-size: 0.8rem;
+	left: 0;
+	letter-spacing: 2px;
+	padding: 14px 0;
+	position: absolute;
+	right: 0;
+	width: 100%;
+}
