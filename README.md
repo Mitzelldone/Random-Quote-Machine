@@ -32,6 +32,23 @@ Bootstrap’s cards provide a flexible and extensible content container with mul
 
 ## JavaScript
 
+List of quote.
+
+```Javascript
+const quoteBank = [
+    {
+    quote: "Life isn’t about getting and having, it’s about giving and being.",
+    author: "Kevin Kruse"
+    },
+    {
+    quote: "Whatever the mind of man can conceive and believe, it can achieve.",
+    author: "Napoleon Hill"
+    },
+
+    ...
+
+```
+
 `generateQuote()` function will run each time we load the window. As starting, we want the quote to be shown.
 
 ```Javascript
@@ -43,7 +60,7 @@ function init() {
 }
 ```
 
-Get random quote from the `quoteBank` array by their number.
+Get random quote from the `quoteBank` array by their index number.
 
 ```JavaScript
 
