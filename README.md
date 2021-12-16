@@ -1,6 +1,7 @@
 # Random Quote Machine
 
 ### 🟥DEMO[HERE](https://mitzelldone.github.io/Random-Quote-Machine/index.html)
+![demo](https://github.com/Mitzelldone/Random-Quote-Machine/blob/main/demo.gif)
 
 ## HTML
 
