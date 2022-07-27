@@ -87,3 +87,5 @@ function generateQuote() {
 }
 
 ```
+## Credit
+https://www.youtube.com/watch?v=pbWHp63-V3c&t=2925s&ab_channel=UsefulProgrammer
